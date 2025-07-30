@@ -1,7 +1,7 @@
 # Basic-Calculator-Program
 Introduction to Python assignment
-## A simple Python program that ask users to input two numbers and a mathematical operation (addition, substraction, multiplication, or division),
-peform the operation based on the user's input and print the result.
+## A simple Python program that asks users to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division),
+perform the operation based on the user's input and print the result.
 
 ##CODE
 Num1 = float(input("Enter the first number: "))
